@@ -17,8 +17,6 @@ with open("input.txt") as file:
                 print(cleanline)
                 count = count + 1
 
-        #for char in cleanline: #read by character
-        #   if char != " ":
 #close file
 file.close()
 
